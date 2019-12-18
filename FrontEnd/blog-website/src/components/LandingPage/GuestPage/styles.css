@@ -1,0 +1,21 @@
+.landingPage{
+    background-image: url('/landingPage.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: rgb(254, 254, 254);
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.landingPage h1{
+    font-size: 80px;
+}
+
+.landingPage p {
+    font-size: 40px;
+}

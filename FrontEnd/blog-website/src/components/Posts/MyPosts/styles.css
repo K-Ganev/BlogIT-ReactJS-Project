@@ -1,0 +1,9 @@
+.Posts {
+    height: 80vh;
+    color:black;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
